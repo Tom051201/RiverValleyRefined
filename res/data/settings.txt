@@ -1,0 +1,3 @@
+SFX=true
+music=true
+renderNightShading=

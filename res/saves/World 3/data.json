@@ -1,0 +1,26 @@
+{
+    "Ambient": {
+        "Time": 0.06607166677713394,
+        "Weather": "clear"
+    },
+    "Player": {
+        "Endurance": {
+            "current": 100,
+            "efficiency": 30,
+            "max": 100
+        },
+        "Health": {
+            "current": 100,
+            "max": 100
+        },
+        "Position": {
+            "x": 734,
+            "y": 278
+        },
+        "Speed": {
+            "current": 5,
+            "default": 5
+        }
+    },
+    "PlayerInventory": null
+}

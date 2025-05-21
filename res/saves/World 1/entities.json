@@ -1,0 +1,68 @@
+{
+    "entities": [
+        {
+            "AI": {
+                "timer": 27.0
+            },
+            "Health": {
+                "current": 100,
+                "max": 100
+            },
+            "Position": {
+                "x": 3825,
+                "y": 396
+            },
+            "Sprite": {
+                "dst": [
+                    3884,
+                    40,
+                    64,
+                    64
+                ],
+                "src": [
+                    0,
+                    0,
+                    16,
+                    16
+                ],
+                "texture": "res/entities/cowSheet.png"
+            },
+            "Velocity": {
+                "dx": -1.0,
+                "dy": 0.0
+            }
+        },
+        {
+            "AI": {
+                "timer": 41.0
+            },
+            "Health": {
+                "current": 100,
+                "max": 100
+            },
+            "Position": {
+                "x": 6303,
+                "y": 2554
+            },
+            "Sprite": {
+                "dst": [
+                    6362,
+                    2198,
+                    64,
+                    64
+                ],
+                "src": [
+                    0,
+                    0,
+                    16,
+                    16
+                ],
+                "texture": "res/entities/cowSheet.png"
+            },
+            "Velocity": {
+                "dx": -1.0,
+                "dy": 1.0
+            }
+        }
+    ]
+}

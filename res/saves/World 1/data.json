@@ -1,0 +1,53 @@
+{
+    "Ambient": {
+        "Time": 0.823598325252533,
+        "Weather": "clear"
+    },
+    "Player": {
+        "Endurance": {
+            "current": 0,
+            "efficiency": 30,
+            "max": 100
+        },
+        "Health": {
+            "current": 100,
+            "max": 100
+        },
+        "Position": {
+            "x": 309,
+            "y": 624
+        },
+        "Speed": {
+            "current": 5,
+            "default": 5
+        }
+    },
+    "PlayerInventory": {
+        "inventory": {
+            "slot0_0": {
+                "amount": 2,
+                "item_id": 1
+            },
+            "slot0_1": {
+                "amount": 2,
+                "item_id": 1
+            },
+            "slot0_2": {
+                "amount": 2,
+                "item_id": 1
+            },
+            "slot0_3": {
+                "amount": 2,
+                "item_id": 1
+            },
+            "slot1_1": {
+                "amount": 2,
+                "item_id": 1
+            },
+            "slot1_2": {
+                "amount": 2,
+                "item_id": 1
+            }
+        }
+    }
+}
