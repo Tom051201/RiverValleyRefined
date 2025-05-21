@@ -1,0 +1,27 @@
+-- TODOs --
+
+- entities
+- buildings
+- create world in main menu
+- player water detection
+- mining tex when mining
+- render items smaller in inv and hotbar
+- different equip sounds
+- equip sound fix
+- good map
+- quit game button
+- collections
+- more realms
+- world map
+- background music
+- back to game button in settings
+- logger
+- tool durability
+- fishing
+- benchmarking timer
+- skill tree
+- dynamic weather
+- lügelas boss
+- toggle ambient sounds
+- fix inventory does not save bug
+- add multithreaded loading of assets
